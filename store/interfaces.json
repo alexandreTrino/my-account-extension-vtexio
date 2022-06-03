@@ -1,0 +1,20 @@
+{
+  "my-account-page.whirlpool-tracker-page": {
+    "component": "MyAppPage"
+  },
+  "my-account-link.whirlpool-tracker-link": {
+    "component": "MyAppLink"
+  },
+  "my-account-page.whirlpool-service-page": {
+    "component": "ServicePage"
+  },
+  "my-account-link.whirlpool-service-link": {
+    "component": "ServiceLink"
+  },
+  "my-account-page.whirlpool-products-page": {
+    "component": "ProductsPage"
+  },
+  "my-account-link.whirlpool-products-link": {
+    "component": "ProductsLink"
+  }
+}
