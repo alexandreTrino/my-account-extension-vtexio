@@ -1,10 +1,9 @@
 {
-  "name": "whirlpool-tracker-myaccount",
-  "vendor": "whirlpoolmxlab",
+  "name": "{{ACCOUNT}}",
+  "vendor": "account-extension",
   "version": "0.0.1",
-  "title": "Whirlpool Tracker Plugin",
+  "title": "My Account Extension",
   "description": "",
-  "mustUpdateAt": "2019-07-09",
   "dependencies": {
     "vtex.my-account": "1.x",
     "vtex.styleguide": "9.x",

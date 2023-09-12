@@ -1,6 +1,8 @@
 {
-  "my-account-pages > my-account-page": "my-account-page.whirlpool-service-page",
-  "my-account-menu > my-account-link": "my-account-link.whirlpool-service-link"
-
-  
+  "my-account-pages > my-account-page": [
+    "my-account-page.extension-page"
+  ],
+  "my-account-menu > my-account-link": [
+    "my-account-link.extension-link"
+  ]
 }

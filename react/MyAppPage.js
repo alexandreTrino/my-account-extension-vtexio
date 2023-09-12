@@ -1,12 +1,20 @@
 import React, { Fragment } from 'react'
 import { Route } from 'vtex.my-account-commons/Router'
-import WhirlpoolT from './components/WhirlpoolT'
-// Your component pages
-import WhirlpoolTracker from './components/WhirlpoolTracker'
+import ExtensionContentPageOne from './components/ExtensionContentPageOne'
+import ExtensionContentPageTwo from './components/ExtensionContentPageTwo'
 
 const MyAppPage = () => (
   <Fragment>
-    <Route exact path="/whirlpool-tracker" component={WhirlpoolT} />
+    <Route 
+      exact 
+      path="/page-one" 
+      component={ExtensionContentPageOne} 
+    />
+    <Route 
+      exact 
+      path="/page-two" 
+      component={ExtensionContentPageTwo} 
+    />
   </Fragment>
 )
 

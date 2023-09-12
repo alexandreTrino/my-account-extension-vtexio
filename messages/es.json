@@ -1,6 +1,4 @@
 {
-  "store/whirlpool-tracker.link": "Seguimiento de pedidos",
-  "store/whirlpool-products.link": "Mis Productos",
-  "store/whirlpool-service.link": "Mis Servicios"
-
+  "store/extension-page.link": "Mi Pagina Nueva",
+  "store/extension-page-2.link": "Mi Pagina Nueva 2"
 }

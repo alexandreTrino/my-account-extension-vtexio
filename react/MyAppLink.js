@@ -4,8 +4,12 @@ import { intlShape, injectIntl } from 'react-intl'
 const MyAppLink = ({ render, intl }) => {
   return render([
     {
-      name: intl.formatMessage({ id: 'store/whirlpool-tracker.link' }),
-      path: '/whirlpool-tracker',
+      name: intl.formatMessage({ id: 'store/extension-page.link' }),
+      path: '/page-one',
+    },
+    {
+      name: intl.formatMessage({ id: 'store/extension-page-2.link' }),
+      path: '/page-two',
     },
   ])
 }
